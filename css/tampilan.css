@@ -1,0 +1,13 @@
+.badan
+{
+    margin-top: 50px;
+    background-color: white;
+    padding: 25px;
+    overflow: hidden;
+}
+
+body
+{
+    background-image: url(../gambar/kayu.jpg);
+    background-size: cover;
+}
